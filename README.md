@@ -16,11 +16,9 @@ In this uipath automation, it compares the sheets in an excel with each other an
 
 | Parameter | Description | Default
 | ------ | ------ | ------ |
-| `ORCHESTRATOR_QUEUE_NAME` | Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.
- |Q1_DUMMY
+| `ORCHESTRATOR_QUEUE_NAME` | Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.|Q1_DUMMY
 |
-| `logF_BusinessProcessName` | Logging field which allows grouping of log data of two or more subprocesses under the same business process name
- |Framework
+| `logF_BusinessProcessName` | Logging field which allows grouping of log data of two or more subprocesses under the same business process name|Framework
 |
 | `MainPath` | Data file Location |C:\Users\myuser\Documents\UiPath\Data\
 |
