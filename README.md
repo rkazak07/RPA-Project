@@ -16,25 +16,19 @@ In this uipath automation, it compares the sheets in an excel with each other an
 
 | Parameter | Description | Default
 | --- | --- | --- |
-| `ORCHESTRATOR_QUEUE_NAME
-` | Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.
+| `ORCHESTRATOR_QUEUE_NAME` | Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.
  |Q1_DUMMY
 |
-| `logF_BusinessProcessName
-` | Logging field which allows grouping of log data of two or more subprocesses under the same business process name
+| `logF_BusinessProcessName` | Logging field which allows grouping of log data of two or more subprocesses under the same business process name
  |Framework
 |
-| `MainPath
-` | Data file Location |C:\Users\myuser\Documents\UiPath\Data\
+| `MainPath` | Data file Location |C:\Users\myuser\Documents\UiPath\Data\
 |
-| `ExcelDefaulName
-` | Excel file ExcelDefaulName_date.xlsx |my_project|
+| `ExcelDefaulName` | Excel file ExcelDefaulName_date.xlsx |my_project|
 | `SeperateFile` | If it writes ON, it creates an external report file. If it writes OFF, it overwrites the existing File. |OFF|
-| `ReportPath
-` | " " |C:\Users\myuser\Documents\Excell_sheet_compare\EndReport\
+| `ReportPath` | " " |C:\Users\myuser\Documents\Excell_sheet_compare\EndReport\
 |
-| `ExcelReportName
-` | "" |my_project_report|
+| `ExcelReportName` | "" |my_project_report|
 | `ManualFileControl` | If ON is written, it controls what is given. Off writers check the religion and format when the standard should not come. |ON|
 | `ManualFilePath` | the directory where the work will be performed |C:\Users\myuser\Documents\UiPath\Data\my_project_date.xlsx|
 | `strReplaceClear` | extension that will not scan within the scan |.domain.com|
