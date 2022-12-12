@@ -7,9 +7,9 @@ In this uipath automation, it compares the sheets in an excel with each other an
 
 ### How to use
 
+* Download Uipath windows
 * Install the excel you want to compare to the Data folder
 * Edit Excell_sheet_compare_config\Config/config.xlsx
-* Setup uipath assistant
 * Run project
 
 ###  Config.xlsx Parameters
