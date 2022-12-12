@@ -22,7 +22,7 @@ In this uipath automation, it compares the sheets in an excel with each other an
 | `ExcelDefaulName` | Excel file ExcelDefaulName_date.xlsx |my_project|
 | `SeperateFile` | If it writes ON, it creates an external report file. If it writes OFF, it overwrites the existing File. |OFF|
 | `ReportPath` | " " |C:\Users\myuser\Documents\Excell_sheet_compare\EndReport\|
-| `ExcelReportName` | "" |my_project_report|
+| `ExcelReportName` | " " |my_project_report|
 | `ManualFileControl` | If ON is written, it controls what is given. Off writers check the religion and format when the standard should not come. |ON|
 | `ManualFilePath` | the directory where the work will be performed |C:\Users\myuser\Documents\UiPath\Data\my_project_date.xlsx|
 | `strReplaceClear` | extension that will not scan within the scan |.domain.com|
