@@ -15,7 +15,7 @@ In this uipath automation, it compares the sheets in an excel with each other an
 ###  Config.xlsx Parameters
 
 | Parameter | Description | Default
-| --- | --- | --- |
+| ------ | ------ | ------ |
 | `ORCHESTRATOR_QUEUE_NAME` | Orchestrator queue Name. The value must match with the queue name defined on Orchestrator.
  |Q1_DUMMY
 |
